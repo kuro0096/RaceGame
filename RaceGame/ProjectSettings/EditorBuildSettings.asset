@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/ChijiwaScene.unity
+    guid: b343f2f7903e92f46b88c1dcae38a84a
   m_configObjects: {}
