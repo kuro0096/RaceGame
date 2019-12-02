@@ -309,7 +309,6 @@ GameObject:
   - component: {fileID: 1270939579}
   - component: {fileID: 1270939578}
   - component: {fileID: 1270939577}
-  - component: {fileID: 1270939582}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -329,6 +328,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e93e86e3b49fb8f488fca249a4603eb1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_speed: 1
+  m_accel: 0.1
 --- !u!135 &1270939578
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -402,22 +403,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!54 &1270939582
-Rigidbody:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1270939576}
-  serializedVersion: 2
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
 --- !u!1 &1788713705
 GameObject:
   m_ObjectHideFlags: 0
