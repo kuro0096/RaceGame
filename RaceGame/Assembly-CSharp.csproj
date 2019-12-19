@@ -75,7 +75,6 @@
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <Compile Include="Assets\Script\Drive.cs" />
-    <Compile Include="Assets\Script\DriveCamera.cs" />
     <Compile Include="Assets\Script\player\PlayerCtr.cs" />
     <Compile Include="Assets\Script\sound\SoundManager.cs" />
     <Compile Include="Assets\Script\sound\SoundVolume.cs" />
