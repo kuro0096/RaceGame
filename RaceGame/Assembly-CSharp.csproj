@@ -75,39 +75,44 @@
     <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
     <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
     <Compile Include="Assets\Script\Drive.cs" />
+    <Compile Include="Assets\Script\effect\effect.cs" />
     <Compile Include="Assets\Script\player\PlayerCtr.cs" />
-    <Compile Include="Assets\Script\sound\SoundManager.cs" />
+    <Compile Include="Assets\Script\Scene\CanvasFader.cs" />
+    <Compile Include="Assets\Script\Scene\MenuScene.cs" />
+    <Compile Include="Assets\Script\Scene\SceneNavigator.cs" />
+    <Compile Include="Assets\Script\Scene\SingletonMonoBehaviour.cs" />
+    <Compile Include="Assets\Script\Scene\TitleScene.cs" />    <Compile Include="Assets\Script\sound\SoundManager.cs" />
     <Compile Include="Assets\Script\sound\SoundVolume.cs" />
     <Compile Include="Assets\Script\test.cs" />
     <Compile Include="Assets\sphereCont.cs" />
     <None Include="Assets\ornament\3DTOYS\readme.txt" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/1816229/就活用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/1816210/就職用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/1816229/就活用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/1816210/就職用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/1816229/就活用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/1816210/就職用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/1816229/就活用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/1816210/就職用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/1816229/就活用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/1816210/就職用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/1816229/就活用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/1816210/就職用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/1816229/就活用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/1816210/就職用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/1816229/就活用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/1816210/就職用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/1816229/就活用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/1816210/就職用チーム制作/RaceGame/RaceGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

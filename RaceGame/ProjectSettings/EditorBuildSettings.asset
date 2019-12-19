@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/ChijiwaScene.unity
     guid: b343f2f7903e92f46b88c1dcae38a84a
+  - enabled: 1
+    path: Assets/Scenes/NatsukiScene.unity
+    guid: 910e3f71396b84e419c8800afe48af21
   m_configObjects: {}
