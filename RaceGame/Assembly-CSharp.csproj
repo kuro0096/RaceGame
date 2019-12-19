@@ -62,6 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Collider.cs" />
     <Compile Include="Assets\ornament\3DTOYS\rotatecamera.cs" />
     <Compile Include="Assets\Script\Drive.cs" />
     <Compile Include="Assets\Script\player\PlayerCtr.cs" />
@@ -69,6 +70,8 @@
     <Compile Include="Assets\Script\sound\SoundVolume.cs" />
     <Compile Include="Assets\Script\test.cs" />
     <None Include="Assets\ornament\3DTOYS\readme.txt" />
+    <None Include="Assets\ornament\GameReadyAssets\FurniturePack1\Shader\SurfaceMetallicSmoothnessAmbient.shader" />
+    <None Include="Assets\ornament\Bed &amp; Bath Furniture Pack\Documentation.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/グループ制作/RaceGame/RaceGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
