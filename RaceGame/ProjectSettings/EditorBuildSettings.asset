@@ -8,4 +8,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/ChijiwaScene.unity
     guid: b343f2f7903e92f46b88c1dcae38a84a
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 02d99005472f50249a304dc2562bdcaf,
+      type: 2}

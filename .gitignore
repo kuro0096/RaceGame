@@ -17,3 +17,5 @@
 /RaceGame/.vs/RaceGame/v15/Server/sqlite3/storage.ide
 /RaceGame/.vs/RaceGame/v15/Server/sqlite3/storage.ide-shm
 /RaceGame/.vs/RaceGame/v15/Server/sqlite3/storage.ide-wal
+/RaceGame/obj
+/RaceGame/.vs
