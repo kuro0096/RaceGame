@@ -65,11 +65,16 @@
     <Compile Include="Assets\Collider.cs" />
     <Compile Include="Assets\NewBehaviourScript.cs" />
     <Compile Include="Assets\ornament\3DTOYS\rotatecamera.cs" />
+    <Compile Include="Assets\Particle Ribbon by Moonflower Carnivore\Scripts\CheckFall.cs" />
+    <Compile Include="Assets\Particle Ribbon by Moonflower Carnivore\Scripts\randomParticleRotation.cs" />
+    <Compile Include="Assets\Particle Ribbon by Moonflower Carnivore\Scripts\ReverseNormals.cs" />
+    <Compile Include="Assets\Particle Ribbon by Moonflower Carnivore\Scripts\rotation.cs" />
     <Compile Include="Assets\Script\Drive.cs" />
     <Compile Include="Assets\Script\player\PlayerCtr.cs" />
     <Compile Include="Assets\Script\sound\SoundManager.cs" />
     <Compile Include="Assets\Script\sound\SoundVolume.cs" />
     <Compile Include="Assets\Script\test.cs" />
+    <None Include="Assets\Particle Ribbon by Moonflower Carnivore\Shaders\Particle Alpha Blend HDR.shader" />
     <None Include="Assets\ornament\3DTOYS\readme.txt" />
     <None Include="Assets\ornament\GameReadyAssets\FurniturePack1\Shader\SurfaceMetallicSmoothnessAmbient.shader" />
     <None Include="Assets\ornament\Bed &amp; Bath Furniture Pack\Documentation.txt" />
