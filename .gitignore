@@ -17,4 +17,7 @@
 /RaceGame/.vs/RaceGame/v15/Server/sqlite3/storage.ide
 /RaceGame/.vs/RaceGame/v15/Server/sqlite3/storage.ide-shm
 /RaceGame/.vs/RaceGame/v15/Server/sqlite3/storage.ide-wal
-/RaceGame/Assembly-CSharp.csproj
+/RaceGame/obj
+/RaceGame/.vs
+/RaceGame/Assembly-CSharp-Editor-firstpass.csproj
+/RaceGame/Assembly-CSharp-firstpass.csproj
